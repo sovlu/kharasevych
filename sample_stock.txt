@@ -1,0 +1,5 @@
+Common,TEA
+Common,POP
+Common,ALE
+Preferred,GIN
+Common,JOE
